@@ -217,7 +217,7 @@ WHERE category = 'Classic';
 8. *Task 8: Find Total Rental Income by Category*:
 
 ```sql
-SSELECT 
+SELECT 
 	b.category,
 	SUM(b.rental_price),
 	COUNT(*) 
