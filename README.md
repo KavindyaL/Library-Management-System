@@ -21,7 +21,11 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](Library-Management-System/library_query.png at main · KavindyaL/Library-Management-System https://share.google/JFe1GDgFjd8DXm0XU)
+
+
+<img width="1233" height="787" alt="image" src="https://github.com/user-attachments/assets/f9de00ec-b7cf-4c3a-8cbb-167b2fcd0993" />
+
+
 
 - *Database Creation*: Created a database named sql_project_p1.
 - *Table Creation*: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
@@ -555,5 +559,6 @@ SELECT * FROM books;
 ## Conclusion
 
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+
 
 
